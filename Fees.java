@@ -11,8 +11,10 @@ package UBTuitionCalculator;
  * Controller - the code and logic behind the program; links the model and the view together
  * 
  * The interface allows a typical undergraduate student from University at Buffalo
- * to input their name, campus status, and # courses they are taking. 
+ * to input their name, resident status, and # credits they are taking. 
+ * The estimated cost is then displayed to them on the interface. 
  */
+
 
 
 //*******MY MODEL********
